@@ -34,7 +34,7 @@ body.modo_escuro {
 
 
 button {
-  border: 2px solid green;
+  border: 2px solid rgb(225, 245, 116);
   border-radius: 20px;
   width: 80px;
   position: fixed;
